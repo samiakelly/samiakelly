@@ -1,4 +1,4 @@
-### olá eu sou a Samia Kelly 👋
+### Olá eu sou a Samia Kelly 👋
 
 
 - 🔭 No momento, estou trabalhando em um projeto próprio
