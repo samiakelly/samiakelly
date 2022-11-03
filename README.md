@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/samiakelly/e1b1a05de88aa4e2e2d0bfef93988101/raw/0d3b82f19d4596275c15d889498bee7044a0f78a/githubcard.svg"/>
-<h1 align="left">Òla <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Samia Kelly</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Samia Kelly</h1>
 
 
 - 🔥 Desenvolvedora web júnior dedicada em se especializar cada vez mais em programação
