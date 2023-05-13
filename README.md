@@ -10,7 +10,7 @@
 
 - ⚡ Curiosidade **Quero viver como uma desenvolvedora nômade 😜**
 
-- 👨‍💻 Veja meu portfólio online em https://samiakelly.github.io/Meu-portifolio-web/
+<!-- - 👨‍💻 Veja meu portfólio online em https://samiakelly.github.io/Meu-portifolio-web/ -->
 
 - 🌱 Interesses em Python, Django, React.Js, React.Native
 
